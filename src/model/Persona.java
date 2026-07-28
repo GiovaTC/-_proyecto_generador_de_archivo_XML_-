@@ -72,4 +72,4 @@ public class Persona {
                 ", ciudad='" + ciudad + '\'' +
                 '}';
     }
-}   
+}
