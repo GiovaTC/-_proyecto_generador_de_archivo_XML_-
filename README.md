@@ -3,6 +3,8 @@
 
 <img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/9bf09c9d-b6f7-4dd6-8dba-e26e695e57f9" />    
 
+<img width="2551" height="1032" alt="image" src="https://github.com/user-attachments/assets/02c60b01-aa1c-41f1-ad7f-dcabb12e395f" />    
+
 Proyecto básico para practicar **Java 21**, **IntelliJ IDEA**, **Consola**, **MySQL 8**, **JDBC** y la generación de archivos **XML** utilizando la API **DOM (Document Object Model)**.
 
 ---
