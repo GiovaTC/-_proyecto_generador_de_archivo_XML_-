@@ -1,6 +1,8 @@
 # -_proyecto_generador_de_archivo_XML_- :.
 # Generador de Archivo XML con Java 21 + MySQL + JDBC + XML DOM
 
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/9bf09c9d-b6f7-4dd6-8dba-e26e695e57f9" />    
+
 Proyecto básico para practicar **Java 21**, **IntelliJ IDEA**, **Consola**, **MySQL 8**, **JDBC** y la generación de archivos **XML** utilizando la API **DOM (Document Object Model)**.
 
 ---
